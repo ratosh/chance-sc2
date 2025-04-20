@@ -8,5 +8,5 @@
 	path = SC2MapAnalysis
 	url = https://github.com/lladdy/SC2MapAnalysis.git
 [submodule "bossman"]
-	path = bossman
+	path = bossman-sc2
 	url = https://github.com/lladdy/bossman.git
