@@ -10,3 +10,4 @@
 [submodule "bossman"]
 	path = bossman
 	url = https://github.com/lladdy/bossman.git
+	branch = main
